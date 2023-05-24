@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-I'm Darren, a self-taught programmer interested in becoming a developer in the near future!
+I'm Darren, a self-taught programmer interested in becoming a developer in the near future.
 
-- 🔭 I’m currently working on TheOdinProject and designing a hypertrophy web app
-- 🌱 I’m currently learning more about data structures and algorithms to cement my foundational knowledge
+- 🔭 I’m currently working on freeCodeCamp, TheOdinProject, and designing a hypertrophy web app
+- 🌱 I’m currently learning more about OOP.
 - 💬 Ask me anything else you want to know!
 - 📫 How to reach me: darren.wilby10@gmail.com
 
 
-- ⚡ Fun fact: An alligator's jaw can be held closed with just a rubber band!
 - 👯 I’m looking to collaborate on ...coming soon
 
 <!--
