@@ -2,13 +2,13 @@
 
 I'm Darren, a self-taught programmer interested in becoming a developer in the near future.
 
-- 🔭 I’m currently working on freeCodeCamp, TheOdinProject, and designing a hypertrophy web app
-- 🌱 I’m currently learning more about OOP.
+- 🔭 I’m currently working on completing freeCodeCamp's relational database course
+- 🌱 I’m currently learning more about OOP
 - 💬 Ask me anything else you want to know!
 - 📫 How to reach me: darren.wilby10@gmail.com
 
 
-- 👯 I’m looking to collaborate on ...coming soon
+
 
 <!--
 **Darren-Wilby/Darren-Wilby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
