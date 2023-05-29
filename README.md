@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I'm Darren, a self-taught programmer interested in becoming a developer in the near future.
 
