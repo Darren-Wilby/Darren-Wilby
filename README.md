@@ -3,7 +3,7 @@
 I'm Darren, a self-taught programmer interested in becoming a developer in the near future.
 
 - 🔭 I’m currently working on completing freeCodeCamp's relational database course
-- 🌱 I’m currently learning more about OOP
+- 🌱 I’m currently reading The Pragmatic Programmer
 - 💬 Ask me anything else you want to know!
 - 📫 How to reach me: darren.wilby10@gmail.com
 
