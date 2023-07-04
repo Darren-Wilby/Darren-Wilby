@@ -1,9 +1,10 @@
 ### Hello there 👋
 
-I'm Darren, a self-taught programmer interested in becoming a developer in the near future.
+I'm Darren, a self-taught programmer!
 
-- 🔭 I’m currently working on completing freeCodeCamp's relational database course
-- 🌱 I’m currently reading The Pragmatic Programmer
+- 🔭 Currently taking Northcoder's Cloud Engineering course
+- 👨🏻‍🎓 Studying DSA's
+- 📚 Reading "The Pragmatic Programmer"
 - 💬 Ask me anything else you want to know!
 - 📫 How to reach me: darren.wilby10@gmail.com
 
