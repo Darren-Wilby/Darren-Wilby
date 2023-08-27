@@ -5,7 +5,6 @@ I'm Darren, a self-taught programmer!
 - 🔭 Currently taking Northcoder's Cloud Engineering course
 - 👨🏻‍🎓 Studying DSA's
 - 📚 Reading "The Pragmatic Programmer"
-- 💬 Ask me anything else you want to know!
 - 📫 How to reach me: darren.wilby10@gmail.com
 
 
