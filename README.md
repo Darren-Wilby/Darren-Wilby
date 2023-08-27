@@ -1,7 +1,3 @@
-### Hello there 👋
-
-I'm Darren, a self-taught programmer!
-
 - 🔭 Currently taking Northcoder's Cloud Engineering course
 - 👨🏻‍🎓 Studying DSA's
 - 📚 Reading "The Pragmatic Programmer"
