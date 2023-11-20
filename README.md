@@ -1,6 +1,4 @@
-- 🔭 Currently taking Northcoder's Cloud Engineering course
-- 👨🏻‍🎓 Studying DSA's
-- 📚 Reading "The Pragmatic Programmer"
+- 📚 Currently reading "The Pragmatic Programmer"
 - 📫 How to reach me: darren.wilby10@gmail.com
 
 
